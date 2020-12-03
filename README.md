@@ -1,5 +1,13 @@
 ### I am in :heart: with TALL Stack.
 
+##
+<a href="https://github.com/sammymwangangi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sammymwangangi&theme=algolia&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/sammymwangangi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammymwangangi&theme=algolia&show_icons=true&layout=compact&langs_count=8" />
+</a>
+
 <!--
 **sammymwangangi/sammymwangangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
